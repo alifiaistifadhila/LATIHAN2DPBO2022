@@ -5,4 +5,4 @@
 //SCREENSHOT PROGRAM
 
 //PHP
-![Latihan2 B - PHP](https://user-images.githubusercontent.com/99643681/154851236-0d9f8eb7-09bf-47cb-a8f9-6955c5b76e64.png)
+//![Latihan2 B - PHP](https://user-images.githubusercontent.com/99643681/154851236-0d9f8eb7-09bf-47cb-a8f9-6955c5b76e64.png)
